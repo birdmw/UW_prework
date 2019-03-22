@@ -1,0 +1,20 @@
+1.SPaaS - Software as a Service: An all-in-one, one-stop-shop product/website in which provides, via subscription, a centrally hosted service.
+    
+
+2.AngularJS - JavaScript framework: A library for JavaScript. AngularJS extends HTML with ng-directives. Maintained by Google. Angular is meant to be a one-page solution for a dynamic model-view-viremodel architecture and the model-view-controller architecture.
+
+3.ReactJS: A JavaScript library for building UI's
+
+4.EmberJS: JavaScript lib for "productivity" based on the MVVM pattern. It seems like EmberJS is focused on "convention over configuration" which generates large blocks of code for you. Some of that code can be ignored, some can be customized.
+
+5.Node: Node is a runtime environment for scaleable real time intensive back-end services. Great for agile development. Fewer lines. Full-Stack support with only JS. Large ecosystem for  of opesource libs.
+
+6.DynamoDB: non-relational database based on key-value pairs.
+
+7.Couchbase: non-relational database. Made for many concurrent users.
+
+8.CI/CD Pipelines: CI/CD is about taking your code, and having a pipeline whereby it gets ingested into a webframework. This way your code is deployed quickly and reliably.
+
+9.SVG - Scalable Vector Graphics: A way to represent graphical data which uses the XML format. It can be highly efficient for some visuals, and allows for the creation of graphics which can be stored in a minimal format
+
+10.Selenium: portable testing framework for web applications. Portable meaning it works in a variety of languages, and has an included IDE for developing tests.
